@@ -1,2 +1,5 @@
 frontend:
   - frontend/**/*
+
+backend:
+  - any: ['backend/**/*', 'infra/**/*']
