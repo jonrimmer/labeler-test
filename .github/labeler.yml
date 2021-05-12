@@ -2,5 +2,7 @@ frontend:
   - frontend/**/*
 
 backend:
+  - backend/*
   - backend/**/*
+  - infra/*
   - infra/**/*
